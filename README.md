@@ -4,10 +4,15 @@ Porto Alegre/RS
 ----
 ## Desenvolvedor
 **Telefone:** (51) 9 9624-3104
+
 **E-Mail:** yurimatheus.gress@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/yuri-matheus-gress/
+
 **GitHub:** yurigress
+
 **Skype:** yurigress
+
 ----
 
 ## Experência Profissional
