@@ -47,7 +47,7 @@ Porto Alegre/RS
 
 > PHP(Zend Framework 2), C#, MySQL e PostgreSQL.
 
-* 2012/2015 (Assitente de TI I, II e III) - Cabanellos Advocacia
+* 2012/2014 (Assitente de TI I, II e III) - Cabanellos Advocacia
 > Atendimento ao usuário via telefone. 
 
 > Configuração de e-mail. 
