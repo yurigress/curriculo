@@ -2,7 +2,7 @@
 Porto Alegre/RS
 
 ----
-## Desenvolvedor
+## Desenvolvedor | Analista de Banco de Dados
 **Telefone:** (51) 9 9624-3104
 
 **E-Mail:** yurimatheus.gress@gmail.com
